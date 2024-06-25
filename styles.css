@@ -43,12 +43,12 @@ h3{
 }
 
 .book .author {
-    color: #777777;
+    color: rgb(119, 119, 119);
     margin: 5px 0;
 }
 
 .book .price {
-    background-color: #2ecc71;
+    background-color: rgb(46, 204, 113);
 	color: white;
 	border-radius: 2px;
     font-weight: bold;
